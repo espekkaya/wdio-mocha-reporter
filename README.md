@@ -2,7 +2,13 @@
 
 This wdio plugin was created based on [this][0].
 
-It was tested on Webdriverio v6 and v7.
+It is working on Webdriverio v8.
+
+If you want to use v7 or v6, you would install below version of package.
+
+```bash
+npm install @espekkaya/wdio-mocha-reporter@1.0.1 --save-dev
+```
 
 ## Installation
 
