@@ -1,6 +1,6 @@
 import WDIOReporter from '@wdio/reporter';
 import moment from 'moment';
-import TestResultAggregate from './common/TestResultAggreagate';
+import TestResultAggregate from './common/TestResultAggreagate.js';
 const esc = {
     sp: '\u0020',
     nl: '\n'

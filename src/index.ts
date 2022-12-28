@@ -2,7 +2,7 @@ import WDIOReporter from '@wdio/reporter'
 import type { Reporters } from '@wdio/types'
 import moment from 'moment';
 
-import TestResultAggregate from './common/TestResultAggreagate';
+import TestResultAggregate from './common/TestResultAggreagate.js';
 
 const esc = {
     sp: '\u0020',
