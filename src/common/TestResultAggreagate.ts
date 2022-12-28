@@ -1,4 +1,4 @@
-import Fs from './lib/Fs';
+import Fs from './lib/Fs.js';
 
 export interface TestAggregate {
     TestStatus: {
